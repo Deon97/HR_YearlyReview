@@ -1,0 +1,6 @@
+string.Format("Output\{0}_PerformanceReview.docx", Employee.ByField("Full Name"))
+
+"C:\Users\CEL0074\Documents\UiPath\Demo\WordActivities\Output\"
+
+
+string.Format("C:\Users\CEL0074\Documents\UiPath\Demo\WordActivities\Output\{0}_PerformanceReview.docx", Employee.ByField("Full Name"))
